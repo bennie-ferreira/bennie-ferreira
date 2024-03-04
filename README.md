@@ -19,7 +19,7 @@
     </a>
 </div>
 <p align="center">
-      English   |  <a href="https://github.com/bennie-ferreira/blob/master/README-pt.md">Português</a>
+      English   |  <a href="https://github.com/bennie-ferreira/bennie-ferreira/blob/main/README.md">Português</a>
 </p>
 
 
