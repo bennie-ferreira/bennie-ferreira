@@ -40,13 +40,10 @@
 
 - Python
 - Javascript | Typescript
-- C#
 - Node js
 - AWS | Azure
 - Mysql | SQL Server | NoSql | Dyano DB | Postgree
 - Go lang
-- PHP
-- Java
 
 <br />
 <h2>💻 Estatísticas do meu perfil 🏆 </h2>
