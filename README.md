@@ -67,8 +67,5 @@ Quando criança tinha o sonho de mudar o mundo 🌎 para melhor, então quando m
 
 Aprendi a programar quando tinha 14 anos, minha primeira linguagem foi Perl, usava para automatizar e scannear portas na rede, na epoca estudava muito sobre segurança da informação e ainda gosto muito de aprender coisas aleatórias. 
 
-<hr/>
-Faço parte da Black Work, uma organização aonde desenvolvedores buscam sempre se aperfeiçoar tecnicamente e participam de varios projetos de codigo aberto/fechado ao redor do mundo.
-
 
 </div>
