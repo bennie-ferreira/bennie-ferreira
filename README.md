@@ -5,19 +5,19 @@
     <a target="_blank" href="https://www.instagram.com/bennie.ferreira">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    &nbsp; &nbsp;
+    &nbsp;
     <a target="_blank" href="https://medium.com/@bennieferreira">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
     </a>
-    &nbsp; &nbsp;
+    &nbsp;
     <a target="_blank" href="https://www.linkedin.com/in/bennie-ferreira">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    &nbsp; &nbsp;
+    &nbsp;
     <a target="_blank" href="https://dev.to/bennieferreira">
         <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
     </a>
-    &nbsp; &nbsp;
+    &nbsp;
     <a target="_blank" href="#!">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
     </a>
