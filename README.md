@@ -54,11 +54,6 @@
 <br />
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=bennie-ferreira&show_icons=true&theme=dark&count_private=true" width="465p" height="210"/>
-</div>
-
-<br />
-<h2>🧑🏻‍💻 Tecnologias mais usadas 🧑🏻‍💻</h2>
-<div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennie-ferreira&layout=donut-vertical&theme=dark" width="465p" height="210"/> 
 </div>
 
