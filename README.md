@@ -50,14 +50,18 @@
 - Go lang
 
 <br />
+
 <h2>💻 Estatísticas do meu perfil 🏆 </h2>
+
 <br />
+
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=bennie-ferreira&show_icons=true&theme=dark&count_private=true" width="465p" height="210"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennie-ferreira&layout=donut-vertical&theme=dark" width="465p" height="210"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennie-ferreira&layout=donut-vertical&theme=dark" width="465px" height="210"/> 
 </div>
 
 <br />
+
 <h2> 😎 Algumas curiosidades 😊 </h2>
 <div>
 Quando criança tinha o sonho de mudar o mundo 🌎 para melhor, então quando me tornei adolescente, eu percebi que mudar EU mesmo já era o bastante, agora como adulto penso que cada gesto nosso tem a chance de transformar um mundo para um lugar melhor, e a programação me fez entender que podemos fazer isso, sempre podemos melhorar uma coisa aqui outra ali, buscando sempre o que há de bom.
