@@ -57,7 +57,7 @@
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=bennie-ferreira&show_icons=true&theme=dark&count_private=true" width="465p" height="210"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennie-ferreira&layout=donut-vertical&theme=dark" width="465px" height="210"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennie-ferreira&layout=donut-vertical&theme=dark" width="199p" height="310"/> 
 </div>
 
 <br />
