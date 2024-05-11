@@ -48,6 +48,9 @@
 - AWS | Azure
 - Mysql | SQL Server | NoSql | Dyano DB | Postgree
 - Go lang
+- C#
+- Java
+- PHP
 
 <br />
 
