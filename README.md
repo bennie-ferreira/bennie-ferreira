@@ -29,9 +29,9 @@
 <h2> 👨‍💻 Sobre min 👨‍💼 </h2>
 
 - 👋 Olá, sou **Bennie Ferreira**
-- 👀 **Estou interessado:** Algum fato interessante, pode ser sobre tecnologia ✨
-- 🌱 **Estou aprendendo:** Coisas novas sempre
-- 💞️ **Busco colaborar:** O avanço da tecnologia e da ciência
+- 👀 **Tenho interesse:** Tecnologia, programação e ciência ✨
+- 🌱 **Estou aprendendo:** Sempre coisas novas
+- 💞️ **Busco colaborar:** Com projetos open source e o avanço da tecnologia e ciência
 - 📫 **Contato comigo:** Em breve no meu site 😁
 - 😄 **Pronomes:** Ele/Dele
 - ⚡ **Curiosidade:** Este repositório aqui está cheio de soluções para você, espero que goste! 😁
