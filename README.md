@@ -1,6 +1,9 @@
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img width="150px" align="right" src="https://komarev.com/ghpvc/?username=bennie-ferreira&color=brightgreen&style=flat"></a>
+
 <br />
+
 <h1 align="center"> Iai tudo certo ? 😁 </h1>
+
 <div align="center">
     <a target="_blank" href="https://www.instagram.com/bennie.ferreira">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -22,13 +25,8 @@
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
     </a>
 </div>
-<p align="center">
-      English   |  <a href="https://github.com/bennie-ferreira/bennie-ferreira/blob/main/README.md">Português</a>
-</p>
 
-
-<img src="assets/11395.jpg" wtigh="320px">
-<br></br>
+<br>
 
 - 👋 Olá, sou **Bennie Ferreira**
 - 👀 **Estou interessado:** Algum fato interessante, pode ser sobre tecnologia ✨
@@ -38,7 +36,6 @@
 - 😄 **Pronomes:** Ele/Dele
 - ⚡ **Curiosidade:** Este repositório aqui está cheio de soluções para você, espero que goste! 😁
 
-<br />
 <h2> 🧑‍🚀 Geralmente trabalho com essas tecnologias 🧑‍🚀 </h2>
 
 <p>
@@ -55,8 +52,6 @@
 
 </p>
 
-<br />
-
 <h2>💻 Estatísticas do meu perfil 🏆 </h2>
 
 <br />
@@ -69,6 +64,7 @@
 <br />
 
 <h2> 😎 Algumas curiosidades 😊 </h2>
+
 <div>
 Quando criança tinha o sonho de mudar o mundo 🌎 para melhor, então quando me tornei adolescente, eu percebi que mudar EU mesmo já era o bastante, agora como adulto penso que cada gesto nosso tem a chance de transformar um mundo para um lugar melhor, e a programação me fez entender que podemos fazer isso, sempre podemos melhorar uma coisa aqui outra ali, buscando sempre o que há de bom.
 
