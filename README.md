@@ -1,4 +1,6 @@
-<a href="https://github.com/antonkomarev/github-profile-views-counter"><img width="150px" align="right" src="https://komarev.com/ghpvc/?username=bennie-ferreira&color=brightgreen&style=flat"></a>
+<div align="center">
+    <a href="https://github.com/antonkomarev/github-profile-views-counter"><img width="150px" src="https://komarev.com/ghpvc/?username=bennie-ferreira&style=flat&color=00E687&label=Visitantes&abbreviated=true"/></a>
+</div>
 
 <br />
 
