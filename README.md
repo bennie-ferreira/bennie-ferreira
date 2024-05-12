@@ -26,7 +26,7 @@
     </a>
 </div>
 
-<br>
+<h2> 👨‍💻 Sobre min 👨‍💼 </h2>
 
 - 👋 Olá, sou **Bennie Ferreira**
 - 👀 **Estou interessado:** Algum fato interessante, pode ser sobre tecnologia ✨
@@ -57,11 +57,15 @@
 <br />
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=bennie-ferreira&show_icons=true&theme=dark&count_private=true" width="465p" height="210"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennie-ferreira&layout=donut-vertical&theme=dark" width="199p" height="210"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=bennie-ferreira&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=dark&count_private=true&bg_color=0F1923&title_color=00E687&border_radius=0"/> &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennie-ferreira&show_icons=true&theme=dark&count_private=true&bg_color=0F1923&title_color=00E687&border_radius=0"/>
 </div>
 
-<br />
+<h2> 👨‍🔬 Meus projetos Open source 🧪 </h2>
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bennie-ferreira&repo=gostack&theme=dark&bg_color=0F1923&title_color=00E687&border_radius=0" width="465p" height="210"/>
+</div>
 
 <h2> 😎 Algumas curiosidades 😊 </h2>
 
