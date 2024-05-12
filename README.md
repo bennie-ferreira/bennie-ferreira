@@ -27,7 +27,7 @@
 </p>
 
 
-<img src="assets/11395.jpg">
+<img src="assets/11395.jpg" wtigh="320px">
 <br></br>
 
 - 👋 Olá, sou **Bennie Ferreira**
