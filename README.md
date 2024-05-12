@@ -2,8 +2,6 @@
     <a href="https://github.com/antonkomarev/github-profile-views-counter"><img width="150px" src="https://komarev.com/ghpvc/?username=bennie-ferreira&style=flat&color=00E687&label=Visitantes&abbreviated=true"/></a>
 </div>
 
-<br />
-
 <h1 align="center"> Iai tudo certo ? 😁 </h1>
 
 <div align="center">
@@ -55,8 +53,6 @@
 </p>
 
 <h2>💻 Estatísticas do meu perfil 🏆 </h2>
-
-<br />
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=bennie-ferreira&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=dark&count_private=true&bg_color=0F1923&title_color=00E687&border_radius=0"/> &nbsp;
