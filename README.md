@@ -78,5 +78,4 @@ Quando criança tinha o sonho de mudar o mundo 🌎 para melhor, então quando m
 <hr/>
 
 Aprendi a programar quando tinha 14 anos, minha primeira linguagem foi Perl, usava para automatizar e scannear portas na rede, na época estudava muito sobre segurança da informação e ainda gosto muito de aprender coisas aleatórias.
-
 </div>
