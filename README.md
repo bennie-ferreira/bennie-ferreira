@@ -26,6 +26,10 @@
     </a>
 </div>
 
+<br/>
+
+<img src="https://github.com/bennie-ferreira/bennie-ferreira/blob/main/assets/githhub-capa.jpg">
+
 <h2> 👨‍💻 Sobre min 👨‍💼 </h2>
 
 - 👋 Olá, sou **Bennie Ferreira**
