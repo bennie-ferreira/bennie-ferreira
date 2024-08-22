@@ -54,17 +54,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennie-ferreira&show_icons=true&theme=dark&count_private=true&bg_color=0F1923&title_color=00E687&border_radius=0"/>
 </div>
 
-<h2> 👨‍🔬 Meus projetos Open source 🧪 </h2>
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bennie-ferreira&repo=gostack&theme=dark&bg_color=0F1923&title_color=00E687&border_radius=0" width="465p" height="210"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bennie-ferreira&repo=my-website&theme=dark&bg_color=0F1923&title_color=00E687&border_radius=0" width="465p" height="210"/>
-</div>
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bennie-ferreira&repo=boilerplate-fastapi&theme=dark&bg_color=0F1923&title_color=00E687&border_radius=0" width="465p" height="210"/>
-</div>
-
 <h2> 😎 Algumas curiosidades 😊 </h2>
 
 <div>
