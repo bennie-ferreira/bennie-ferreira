@@ -5,24 +5,15 @@
 <h1 align="center"> Iai tudo certo ? 😁 </h1>
 
 <div align="center">
-    <a target="_blank" href="https://www.instagram.com/bennie.ferreira">
-        <img src="https://img.shields.io/badge/Instagram-00E687?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    &nbsp;
     <a target="_blank" href="https://medium.com/@bennieferreira">
         <img src="https://img.shields.io/badge/Medium-00E687?style=for-the-badge&logo=medium&logoColor=0F1923">
-    </a>
-    &nbsp;
-    <a target="_blank" href="https://www.linkedin.com/in/bennie-ferreira">
-        <img src="https://img.shields.io/badge/LinkedIn-00E687?style=for-the-badge&logo=linkedin&logoColor=0F1923">
     </a>
     &nbsp;
     <a target="_blank" href="https://dev.to/bennieferreira">
         <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=00E687">
     </a>
-    &nbsp;
-    <a target="_blank" href="https://www.youtube.com/@bennie-ferreira">
-        <img src="https://img.shields.io/badge/YouTube-00E687?style=for-the-badge&logo=youtube&logoColor=0F1923">
+    <a target="_blank" href="https://www.linkedin.com/in/bennie-ferreira">
+        <img src="https://img.shields.io/badge/LinkedIn-00E687?style=for-the-badge&logo=linkedin&logoColor=0F1923">
     </a>
 </div>
 
