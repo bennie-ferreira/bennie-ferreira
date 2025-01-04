@@ -28,7 +28,6 @@
 - 🌱 **Estou aprendendo:** Sempre coisas novas
 - 💞️ **Busco colaborar:** Com projetos open source e o avanço da tecnologia e ciência
 - 📫 **Contato comigo:** Em breve no meu site 😁
-- 😄 **Pronomes:** Ele/Dele
 - ⚡ **Curiosidade:** Este repositório aqui está cheio de soluções para você, espero que goste! 😁
 
 <h2> 🧑‍🚀 Geralmente trabalho com essas tecnologias 🧑‍🚀 </h2>
@@ -52,15 +51,4 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=bennie-ferreira&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=dark&count_private=true&bg_color=0F1923&title_color=00E687&border_radius=0"/> &nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennie-ferreira&show_icons=true&theme=dark&count_private=true&bg_color=0F1923&title_color=00E687&border_radius=0"/>
-</div>
-
-<h2> 😎 Algumas curiosidades 😊 </h2>
-
-<div>
-Quando criança tinha o sonho de mudar o mundo 🌎 para melhor, então quando me tornei adolescente, eu percebi que mudar EU mesmo já era o bastante, agora como adulto penso que cada gesto nosso tem a chance de transformar um mundo para um lugar melhor, e a programação me fez entender que podemos fazer isso, sempre podemos melhorar uma coisa aqui outra ali, buscando sempre o que há de bom.
-
-<hr/>
-
-Aprendi a programar quando tinha 14 anos, minha primeira linguagem foi Perl, usava para automatizar e scannear portas na rede, na época estudava muito sobre segurança da informação e ainda gosto muito de aprender coisas aleatórias.
-
 </div>
