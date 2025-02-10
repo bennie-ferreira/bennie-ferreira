@@ -4,7 +4,7 @@
 
 <h1 align="center"> Iai tudo certo ? 😁 </h1>
 
-<div align="center">
+<!-- <div align="center">
     <a target="_blank" href="https://medium.com/@bennieferreira">
         <img src="https://img.shields.io/badge/Medium-00E687?style=for-the-badge&logo=medium&logoColor=0F1923">
     </a>
@@ -15,9 +15,7 @@
     <a target="_blank" href="https://www.linkedin.com/in/bennie-ferreira">
         <img src="https://img.shields.io/badge/LinkedIn-00E687?style=for-the-badge&logo=linkedin&logoColor=0F1923">
     </a>
-</div>
-
-<br/>
+</div> -->
 
 <h2> 👨‍💻 Sobre min 👨‍💼 </h2>
 
